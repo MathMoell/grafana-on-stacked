@@ -1,0 +1,5 @@
+# Ignore Docker volumes (local) and temporary files
+grafana-data/
+loki-data/
+tempo-data/
+/tmp/positions.yaml
